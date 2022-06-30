@@ -1,4 +1,4 @@
-import styled from 'styled-components/macro'
+import styled from 'styled-component/macro'
 
 export const CourseTitleAndDurationContainer = styled.div`
   display: flex;
